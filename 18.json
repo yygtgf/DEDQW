@@ -11,13 +11,13 @@
                 "api": "mtsp_open.js"
             },
             {
-                "key": "18AV",
+                "key": "18",
                 "name": "YHY丨18AV",
                 "type": 3,
                 "api": "18av_open.js"
             },
             {
-                "key": "91av",
+                "key": "91",
                 "name": "YHY丨91视频",
                 "type": 3,
                 "api": "caiji.js",
