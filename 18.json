@@ -6,82 +6,82 @@
 "sites":[
             {
                 "key": "mtsp",
-                "name": "🔞YHY丨蜜桃",
+                "name": "YHY丨蜜桃",
                 "type": 3,
                 "api": "mtsp_open.js"
             },
             {
                 "key": "18AV",
-                "name": "🔞YHY丨18AV",
+                "name": "YHY丨18AV",
                 "type": 3,
                 "api": "18av_open.js"
             },
             {
                 "key": "91av",
-                "name": "🔞YHY丨91视频",
+                "name": "YHY丨91视频",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://91av.cyou/api.php/provide/vod/at/json"
             },	
             {
                 "key": "91md",
-                "name": "🔞YHY丨九麻",
+                "name": "YHY丨九麻",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://91md.me/api.php/provide/vod/at/json"
             },			
             {
                 "key": "madou",
-                "name": "🔞YHY丨麻豆",
+                "name": "YHY丨豆",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/"
             },
             {
                 "key": "tianmei",
-                "name": "🔞YHY丨天美①",
+                "name": "YHY丨天1",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/"
             },
             {
                 "key": "tmyy",
-                "name": "🔞YHY丨天美②",
+                "name": "YHY丨天",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://tmyy.cc/api.php/provide/vod/from/m3u8/"
             },			
             {
                 "key": "madouse",
-                "name": "🔞YHY丨果冻",
+                "name": "YHY丨果",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "http://madouse.cc/api.php/provide/vod/at/json"
             },
             {
                 "key": "chujia",
-                "name": "🔞YHY丨精东",
+                "name": "YHY丨东",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "http://chujia.cc/api.php/provide/vod/from/m3u8/"
             },	
             {
                 "key": "qqcm",
-                "name": "🔞YHY丨传媒",
+                "name": "YHY丨传",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://qqcm.sbs/api.php/provide/vod/at/json"
             },			
             {
                 "key": "shayuapi",
-                "name": "🔞YHY丨鲨鱼",
+                "name": "YHY丨鱼",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://shayuapi.com/api.php/provide/vod/"
             },		
             {
                 "key": "apilyzy",
-                "name": "🔞YHY丨老鸭",
+                "name": "YHY丨老",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://api.apilyzy.com/api.php/provide/vod/"
